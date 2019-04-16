@@ -1,0 +1,6 @@
+* Tim
+
+Site (un)blocker. Edits =/etc/hosts= to redirect the given domains to =127.0.0.1=.
+I have it aliased to =block= and =unblock=, e.g.: =block facebook.com=.
+
+Tries to not touch the rest of your hosts file :)
